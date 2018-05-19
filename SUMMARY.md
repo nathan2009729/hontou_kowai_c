@@ -25,4 +25,13 @@
   * [8.5 bit運算元](chapter-8-shi-zi-yu-yan-suan-yuan-ff3b-30c7-30fc-30bf-3092-jia-gong-3057-3066-ping-jia-3059-308b-ff3d/85-bityun-suan-yuan.md)
   * [8.6 優先順位表](chapter-8-shi-zi-yu-yan-suan-yuan-ff3b-30c7-30fc-30bf-3092-jia-gong-3057-3066-ping-jia-3059-308b-ff3d/86-you-xian-shun-wei-biao.md)
   * [8.7 結語](chapter-8-shi-zi-yu-yan-suan-yuan-ff3b-30c7-30fc-30bf-3092-jia-gong-3057-3066-ping-jia-3059-308b-ff3d/87-jie-yu.md)
+* [Chapter 9 制御結構［プログラムの流れを記述する］](chapter-9-zhi-yu-jie-gou-ff3b-30d7-30ed-30b0-30e9-30e0-306e-liu-308c-3092-ji-shu-3059-308b-ff3d.md)
+  * [9.1 程式的執行由3個構造決定](chapter-9-zhi-yu-jie-gou-ff3b-30d7-30ed-30b0-30e9-30e0-306e-liu-308c-3092-ji-shu-3059-308b-ff3d/91-cheng-shi-de-zhi-xing-you-3-ge-gou-zao-jue-ding.md)
+  * [9.2 筆直前進的逐一執行](chapter-9-zhi-yu-jie-gou-ff3b-30d7-30ed-30b0-30e9-30e0-306e-liu-308c-3092-ji-shu-3059-308b-ff3d/92-bi-zhi-qian-jin-de-zhu-yi-zhi-xing.md)
+  * [9.3 依條件分開的分歧 if else](chapter-9-zhi-yu-jie-gou-ff3b-30d7-30ed-30b0-30e9-30e0-306e-liu-308c-3092-ji-shu-3059-308b-ff3d/93-yi-tiao-jian-fen-kai-de-fen-qi-if-else.md)
+  * [9.4 基本的重複 \(while\)](chapter-9-zhi-yu-jie-gou-ff3b-30d7-30ed-30b0-30e9-30e0-306e-liu-308c-3092-ji-shu-3059-308b-ff3d/94-ji-ben-de-zhong-fu-while.md)
+  * [9.5 另外的重複 \(for, do~while\)](chapter-9-zhi-yu-jie-gou-ff3b-30d7-30ed-30b0-30e9-30e0-306e-liu-308c-3092-ji-shu-3059-308b-ff3d/95-ling-wai-de-zhong-fu-for-do-~-while.md)
+  * [9.6 分開處理複數條件](chapter-9-zhi-yu-jie-gou-ff3b-30d7-30ed-30b0-30e9-30e0-306e-liu-308c-3092-ji-shu-3059-308b-ff3d/96-fen-kai-chu-li-fu-shu-tiao-jian.md)
+  * [9.7 可以跳躍到任何地方的goto](chapter-9-zhi-yu-jie-gou-ff3b-30d7-30ed-30b0-30e9-30e0-306e-liu-308c-3092-ji-shu-3059-308b-ff3d/97-ke-yi-tiao-yue-dao-ren-he-di-fang-de-goto.md)
+  * [9.8 結語](chapter-9-zhi-yu-jie-gou-ff3b-30d7-30ed-30b0-30e9-30e0-306e-liu-308c-3092-ji-shu-3059-308b-ff3d/98-jie-yu.md)
 
