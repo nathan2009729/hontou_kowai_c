@@ -17,4 +17,7 @@
   * [7.3 字元與字串](chapter-7-data-typezi-liao-xing-614b29-yu-bian-shu-ff3b-30c7-30fc-30bf-3092-shi-bie-3057-3066-bao-chi-3059-308b-ff3d/73-zi-yuan-yu-zi-chuan.md)
   * [7.4 storage class](chapter-7-data-typezi-liao-xing-614b29-yu-bian-shu-ff3b-30c7-30fc-30bf-3092-shi-bie-3057-3066-bao-chi-3059-308b-ff3d/74-storage-class.md)
   * [7.5 結語](chapter-7-data-typezi-liao-xing-614b29-yu-bian-shu-ff3b-30c7-30fc-30bf-3092-shi-bie-3057-3066-bao-chi-3059-308b-ff3d/75-jie-yu.md)
+* [Chapter 8 式子與演算元［データを加工して評価する］](chapter-8-shi-zi-yu-yan-suan-yuan-ff3b-30c7-30fc-30bf-3092-jia-gong-3057-3066-ping-jia-3059-308b-ff3d.md)
+  * [8.1 式子與運算子是拿來求出結果的](chapter-8-shi-zi-yu-yan-suan-yuan-ff3b-30c7-30fc-30bf-3092-jia-gong-3057-3066-ping-jia-3059-308b-ff3d/81-shi-zi-yu-yun-suan-zi-shi-na-lai-qiu-chu-jie-guo-de.md)
+  * [8.2 條件式的判定](chapter-8-shi-zi-yu-yan-suan-yuan-ff3b-30c7-30fc-30bf-3092-jia-gong-3057-3066-ping-jia-3059-308b-ff3d/82-tiao-jian-shi-de-pan-ding.md)
 
