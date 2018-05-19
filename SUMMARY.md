@@ -10,4 +10,5 @@
   * [5.5 結語](chapter1/55-jie-yu.md)
 * [Chapter 6 C語言的全體像［とにかく全部眺めてみる］](chapter-6.md)
   * [6.1 記住C語言基本中的基本](chapter-6/61-ji-zhu-c-yu-yan-ji-ben-zhong-de-ji-ben.md)
+  * [6.2 C語言學習地圖](chapter-6/62-cyu-yan-xue-xi-di-tu.md)
 
