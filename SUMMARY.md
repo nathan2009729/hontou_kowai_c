@@ -23,4 +23,6 @@
   * [8.3 一元運算元跟三元運算元](chapter-8-shi-zi-yu-yan-suan-yuan-ff3b-30c7-30fc-30bf-3092-jia-gong-3057-3066-ping-jia-3059-308b-ff3d/83-yi-yuan-yun-suan-yuan-gen-san-yuan-yun-suan-yuan.md)
   * [8.4 有點奇怪的運算元](chapter-8-shi-zi-yu-yan-suan-yuan-ff3b-30c7-30fc-30bf-3092-jia-gong-3057-3066-ping-jia-3059-308b-ff3d/84-you-dian-qi-guai-de-yun-suan-yuan.md)
   * [8.5 bit運算元](chapter-8-shi-zi-yu-yan-suan-yuan-ff3b-30c7-30fc-30bf-3092-jia-gong-3057-3066-ping-jia-3059-308b-ff3d/85-bityun-suan-yuan.md)
+  * [8.6 優先順位表](chapter-8-shi-zi-yu-yan-suan-yuan-ff3b-30c7-30fc-30bf-3092-jia-gong-3057-3066-ping-jia-3059-308b-ff3d/86-you-xian-shun-wei-biao.md)
+  * [8.7 結語](chapter-8-shi-zi-yu-yan-suan-yuan-ff3b-30c7-30fc-30bf-3092-jia-gong-3057-3066-ping-jia-3059-308b-ff3d/87-jie-yu.md)
 
