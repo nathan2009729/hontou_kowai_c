@@ -15,4 +15,6 @@
   * [7.1 data type\(資料型態\)](chapter-7-data-typezi-liao-xing-614b29-yu-bian-shu-ff3b-30c7-30fc-30bf-3092-shi-bie-3057-3066-bao-chi-3059-308b-ff3d/71-data-typezi-liao-xing-614b29.md)
   * [7.2 變數](chapter-7-data-typezi-liao-xing-614b29-yu-bian-shu-ff3b-30c7-30fc-30bf-3092-shi-bie-3057-3066-bao-chi-3059-308b-ff3d/72-bian-shu.md)
   * [7.3 字元與字串](chapter-7-data-typezi-liao-xing-614b29-yu-bian-shu-ff3b-30c7-30fc-30bf-3092-shi-bie-3057-3066-bao-chi-3059-308b-ff3d/73-zi-yuan-yu-zi-chuan.md)
+  * [7.4 storage class](chapter-7-data-typezi-liao-xing-614b29-yu-bian-shu-ff3b-30c7-30fc-30bf-3092-shi-bie-3057-3066-bao-chi-3059-308b-ff3d/74-storage-class.md)
+  * [7.5 結語](chapter-7-data-typezi-liao-xing-614b29-yu-bian-shu-ff3b-30c7-30fc-30bf-3092-shi-bie-3057-3066-bao-chi-3059-308b-ff3d/75-jie-yu.md)
 
