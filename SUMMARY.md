@@ -21,4 +21,6 @@
   * [8.1 式子與運算子是拿來求出結果的](chapter-8-shi-zi-yu-yan-suan-yuan-ff3b-30c7-30fc-30bf-3092-jia-gong-3057-3066-ping-jia-3059-308b-ff3d/81-shi-zi-yu-yun-suan-zi-shi-na-lai-qiu-chu-jie-guo-de.md)
   * [8.2 條件式的判定](chapter-8-shi-zi-yu-yan-suan-yuan-ff3b-30c7-30fc-30bf-3092-jia-gong-3057-3066-ping-jia-3059-308b-ff3d/82-tiao-jian-shi-de-pan-ding.md)
   * [8.3 一元運算元跟三元運算元](chapter-8-shi-zi-yu-yan-suan-yuan-ff3b-30c7-30fc-30bf-3092-jia-gong-3057-3066-ping-jia-3059-308b-ff3d/83-yi-yuan-yun-suan-yuan-gen-san-yuan-yun-suan-yuan.md)
+  * [8.4 有點奇怪的運算元](chapter-8-shi-zi-yu-yan-suan-yuan-ff3b-30c7-30fc-30bf-3092-jia-gong-3057-3066-ping-jia-3059-308b-ff3d/84-you-dian-qi-guai-de-yun-suan-yuan.md)
+  * [8.5 bit運算元](chapter-8-shi-zi-yu-yan-suan-yuan-ff3b-30c7-30fc-30bf-3092-jia-gong-3057-3066-ping-jia-3059-308b-ff3d/85-bityun-suan-yuan.md)
 
