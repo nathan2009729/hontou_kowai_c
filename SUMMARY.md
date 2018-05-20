@@ -74,4 +74,5 @@
   * [14.8 文字函數](chapter-14-zi-chuan-cao-zuo-ff3b-wen-zi-lie-3092-cao-zuo-3057-shi-3044-3053-306a-3059-ff3d/148-wen-zi-han-shu.md)
   * [14.9 簡單說明操作複雜的字串](chapter-14-zi-chuan-cao-zuo-ff3b-wen-zi-lie-3092-cao-zuo-3057-shi-3044-3053-306a-3059-ff3d/149-jian-dan-shuo-ming-cao-zuo-fu-za-de-zi-chuan.md)
   * [14.10 結語](chapter-14-zi-chuan-cao-zuo-ff3b-wen-zi-lie-3092-cao-zuo-3057-shi-3044-3053-306a-3059-ff3d/1410-jie-yu.md)
+* [Chapter 15 動態記憶體［データの置き場所を自ら作る］](chapter-15-dong-tai-ji-yi-ti-ff3b-30c7-30fc-30bf-306e-zhi-304d-chang-suo-3092-zi-3089-zuo-308b-ff3d.md)
 
