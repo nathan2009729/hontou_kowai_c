@@ -78,4 +78,5 @@
   * [15.1 記憶體從heap拿來一定要還](chapter-15-dong-tai-ji-yi-ti-ff3b-30c7-30fc-30bf-306e-zhi-304d-chang-suo-3092-zi-3089-zuo-308b-ff3d/151-ji-yi-ti-cong-heap-na-lai-yi-ding-yao-huan.md)
   * [15.2 確保記憶體\(malloc\)](chapter-15-dong-tai-ji-yi-ti-ff3b-30c7-30fc-30bf-306e-zhi-304d-chang-suo-3092-zi-3089-zuo-308b-ff3d/152-que-bao-ji-yi-9ad428-malloc.md)
   * [15.3 解放記憶體 \(free\)](chapter-15-dong-tai-ji-yi-ti-ff3b-30c7-30fc-30bf-306e-zhi-304d-chang-suo-3092-zi-3089-zuo-308b-ff3d/153-jie-fang-ji-yi-ti-free.md)
+  * [15.4 另一個確保記憶體的方法 \(calloc\)](chapter-15-dong-tai-ji-yi-ti-ff3b-30c7-30fc-30bf-306e-zhi-304d-chang-suo-3092-zi-3089-zuo-308b-ff3d/154-ling-yi-ge-que-baoji-yi-ti-de-fang-fa-calloc.md)
 
