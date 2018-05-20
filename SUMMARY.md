@@ -48,4 +48,5 @@
 * [Chapter 12 指標與陣列［データをまとめて場所を指し示す］](chapter-12-zhi-biao-yu-zhen-lie-ff3b-30c7-30fc-30bf-3092-307e-3068-3081-3066-chang-suo-3092-zhi-3057-shi-3059-ff3d.md)
   * [12.1 何謂陣列](chapter-12-zhi-biao-yu-zhen-lie-ff3b-30c7-30fc-30bf-3092-307e-3068-3081-3066-chang-suo-3092-zhi-3057-shi-3059-ff3d/121-he-wei-zhen-lie.md)
   * [12.2 何謂指標](chapter-12-zhi-biao-yu-zhen-lie-ff3b-30c7-30fc-30bf-3092-307e-3068-3081-3066-chang-suo-3092-zhi-3057-shi-3059-ff3d/122-he-wei-zhi-biao.md)
+  * [12.3 指標與函數](chapter-12-zhi-biao-yu-zhen-lie-ff3b-30c7-30fc-30bf-3092-307e-3068-3081-3066-chang-suo-3092-zhi-3057-shi-3059-ff3d/123-zhi-biao-yu-han-shu.md)
 
