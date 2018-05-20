@@ -66,4 +66,5 @@
 * [Chapter 14 字串操作［文字列を操作し使いこなす］](chapter-14-zi-chuan-cao-zuo-ff3b-wen-zi-lie-3092-cao-zuo-3057-shi-3044-3053-306a-3059-ff3d.md)
   * [14.1 字串的複習](chapter-14-zi-chuan-cao-zuo-ff3b-wen-zi-lie-3092-cao-zuo-3057-shi-3044-3053-306a-3059-ff3d/141-zi-chuan-de-fu-xi.md)
   * [14.2 複製字串](chapter-14-zi-chuan-cao-zuo-ff3b-wen-zi-lie-3092-cao-zuo-3057-shi-3044-3053-306a-3059-ff3d/142-fu-zhi-zi-chuan.md)
+  * [14.3 求出字串長度](chapter-14-zi-chuan-cao-zuo-ff3b-wen-zi-lie-3092-cao-zuo-3057-shi-3044-3053-306a-3059-ff3d/143-qiu-chu-zi-chuan-chang-du.md)
 
