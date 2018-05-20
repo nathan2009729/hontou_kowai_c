@@ -36,4 +36,5 @@
   * [9.8 結語](chapter-9-zhi-yu-jie-gou-ff3b-30d7-30ed-30b0-30e9-30e0-306e-liu-308c-3092-ji-shu-3059-308b-ff3d/98-jie-yu.md)
 * [Chapter 10 函數［プログラムを機能でまとめる］](chapter-10-han-shu-ff3b-30d7-30ed-30b0-30e9-30e0-3092-ji-neng-3067-307e-3068-3081-308b-ff3d.md)
   * [10.1 函數的基本](chapter-10-han-shu-ff3b-30d7-30ed-30b0-30e9-30e0-3092-ji-neng-3067-307e-3068-3081-308b-ff3d/101-han-shu-de-ji-ben.md)
+  * [10.2 標準函數](chapter-10-han-shu-ff3b-30d7-30ed-30b0-30e9-30e0-3092-ji-neng-3067-307e-3068-3081-308b-ff3d/102-biao-zhun-han-shu.md)
 
