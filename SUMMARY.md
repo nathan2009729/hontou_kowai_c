@@ -71,4 +71,5 @@
   * [14.5 比較字串](chapter-14-zi-chuan-cao-zuo-ff3b-wen-zi-lie-3092-cao-zuo-3057-shi-3044-3053-306a-3059-ff3d/145-bi-jiao-zi-chuan.md)
   * [14.6 搜索字串](chapter-14-zi-chuan-cao-zuo-ff3b-wen-zi-lie-3092-cao-zuo-3057-shi-3044-3053-306a-3059-ff3d/146-sou-suo-zi-chuan.md)
   * [14.7 切割字串](chapter-14-zi-chuan-cao-zuo-ff3b-wen-zi-lie-3092-cao-zuo-3057-shi-3044-3053-306a-3059-ff3d/147-qie-ge-zi-chuan.md)
+  * [14.8 文字函數](chapter-14-zi-chuan-cao-zuo-ff3b-wen-zi-lie-3092-cao-zuo-3057-shi-3044-3053-306a-3059-ff3d/148-wen-zi-han-shu.md)
 
