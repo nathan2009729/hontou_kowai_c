@@ -89,4 +89,5 @@
   * [16.1 檔案輸出/入的基本](chapter-16-dang-an-shu-chu-ru-ff3b-30c7-30fc-30bf-3092-bao-cun-3057-du-307f-chu-3059-ff3d/161-dang-an-shu-51fa-ru-de-ji-ben.md)
   * [16.2 標準file函數 \(f\*系\)](chapter-16-dang-an-shu-chu-ru-ff3b-30c7-30fc-30bf-3092-bao-cun-3057-du-307f-chu-3059-ff3d/162-biao-zhun-file-han-shu-f-7cfb29.md)
   * [16.3 實驗看看檔案的讀出寫入](chapter-16-dang-an-shu-chu-ru-ff3b-30c7-30fc-30bf-3092-bao-cun-3057-du-307f-chu-3059-ff3d/163-shi-yan-kan-kan-dang-an-de-du-chu-xie-ru.md)
+  * [16.4 其他的標準file函數](chapter-16-dang-an-shu-chu-ru-ff3b-30c7-30fc-30bf-3092-bao-cun-3057-du-307f-chu-3059-ff3d/164-qi-ta-de-biao-zhun-file-han-shu.md)
 
