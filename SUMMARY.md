@@ -52,4 +52,5 @@
   * [12.4 指標與cast\(轉型\)](chapter-12-zhi-biao-yu-zhen-lie-ff3b-30c7-30fc-30bf-3092-307e-3068-3081-3066-chang-suo-3092-zhi-3057-shi-3059-ff3d/124-zhi-biao-yu-cast-zhuan-578b29.md)
   * [12.5 明示的轉型](chapter-12-zhi-biao-yu-zhen-lie-ff3b-30c7-30fc-30bf-3092-307e-3068-3081-3066-chang-suo-3092-zhi-3057-shi-3059-ff3d/125-ming-shi-de-zhuan-xing.md)
   * [12.6 double pointer, triple pointer](chapter-12-zhi-biao-yu-zhen-lie-ff3b-30c7-30fc-30bf-3092-307e-3068-3081-3066-chang-suo-3092-zhi-3057-shi-3059-ff3d/126-double-pointer-triple-pointer.md)
+  * [12.7 多維陣列](chapter-12-zhi-biao-yu-zhen-lie-ff3b-30c7-30fc-30bf-3092-307e-3068-3081-3066-chang-suo-3092-zhi-3057-shi-3059-ff3d/127-duo-wei-zhen-lie.md)
 
