@@ -40,4 +40,5 @@
   * [10.3 結論](chapter-10-han-shu-ff3b-30d7-30ed-30b0-30e9-30e0-3092-ji-neng-3067-307e-3068-3081-308b-ff3d/103-jie-lun.md)
 * [Chapter 11 Preprocessor\(預處理器\)［さまざまな前処理を行う］](chapter-11-preprocessoryu-chu-li-566829-ff3b-3055-307e-3056-307e-306a-qian-chu-li-3092-xing-3046-ff3d.md)
   * [11.1 替換file的內容 \(include\)](chapter-11-preprocessoryu-chu-li-566829-ff3b-3055-307e-3056-307e-306a-qian-chu-li-3092-xing-3046-ff3d/111-ti-huan-file-de-nei-rong-include.md)
+  * [11.2 一對一置換 \(define\)](chapter-11-preprocessoryu-chu-li-566829-ff3b-3055-307e-3056-307e-306a-qian-chu-li-3092-xing-3046-ff3d/112-yi-dui-yi-zhi-huan-define.md)
 
