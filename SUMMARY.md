@@ -37,4 +37,5 @@
 * [Chapter 10 函數［プログラムを機能でまとめる］](chapter-10-han-shu-ff3b-30d7-30ed-30b0-30e9-30e0-3092-ji-neng-3067-307e-3068-3081-308b-ff3d.md)
   * [10.1 函數的基本](chapter-10-han-shu-ff3b-30d7-30ed-30b0-30e9-30e0-3092-ji-neng-3067-307e-3068-3081-308b-ff3d/101-han-shu-de-ji-ben.md)
   * [10.2 標準函數](chapter-10-han-shu-ff3b-30d7-30ed-30b0-30e9-30e0-3092-ji-neng-3067-307e-3068-3081-308b-ff3d/102-biao-zhun-han-shu.md)
+  * [10.3 結論](chapter-10-han-shu-ff3b-30d7-30ed-30b0-30e9-30e0-3092-ji-neng-3067-307e-3068-3081-308b-ff3d/103-jie-lun.md)
 
