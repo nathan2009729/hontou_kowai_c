@@ -68,4 +68,5 @@
   * [14.2 複製字串](chapter-14-zi-chuan-cao-zuo-ff3b-wen-zi-lie-3092-cao-zuo-3057-shi-3044-3053-306a-3059-ff3d/142-fu-zhi-zi-chuan.md)
   * [14.3 求出字串長度](chapter-14-zi-chuan-cao-zuo-ff3b-wen-zi-lie-3092-cao-zuo-3057-shi-3044-3053-306a-3059-ff3d/143-qiu-chu-zi-chuan-chang-du.md)
   * [14.4 連接字串](chapter-14-zi-chuan-cao-zuo-ff3b-wen-zi-lie-3092-cao-zuo-3057-shi-3044-3053-306a-3059-ff3d/144-lian-jie-zi-chuan.md)
+  * [14.5 比較字串](chapter-14-zi-chuan-cao-zuo-ff3b-wen-zi-lie-3092-cao-zuo-3057-shi-3044-3053-306a-3059-ff3d/145-bi-jiao-zi-chuan.md)
 
