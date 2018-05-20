@@ -34,4 +34,5 @@
   * [9.6 分開處理複數條件](chapter-9-zhi-yu-jie-gou-ff3b-30d7-30ed-30b0-30e9-30e0-306e-liu-308c-3092-ji-shu-3059-308b-ff3d/96-fen-kai-chu-li-fu-shu-tiao-jian.md)
   * [9.7 可以跳躍到任何地方的goto](chapter-9-zhi-yu-jie-gou-ff3b-30d7-30ed-30b0-30e9-30e0-306e-liu-308c-3092-ji-shu-3059-308b-ff3d/97-ke-yi-tiao-yue-dao-ren-he-di-fang-de-goto.md)
   * [9.8 結語](chapter-9-zhi-yu-jie-gou-ff3b-30d7-30ed-30b0-30e9-30e0-306e-liu-308c-3092-ji-shu-3059-308b-ff3d/98-jie-yu.md)
+* [Chapter 10 函數［プログラムを機能でまとめる］](chapter-10-han-shu-ff3b-30d7-30ed-30b0-30e9-30e0-3092-ji-neng-3067-307e-3068-3081-308b-ff3d.md)
 
