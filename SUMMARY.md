@@ -85,4 +85,5 @@
   * [15.8 可以操作記憶體領域的函數](chapter-15-dong-tai-ji-yi-ti-ff3b-30c7-30fc-30bf-306e-zhi-304d-chang-suo-3092-zi-3089-zuo-308b-ff3d/158-ke-yi-cao-zuo-ji-yi-ti-ling-yu-de-han-shu.md)
   * [15.9 動態記憶體的應用: linked list](chapter-15-dong-tai-ji-yi-ti-ff3b-30c7-30fc-30bf-306e-zhi-304d-chang-suo-3092-zi-3089-zuo-308b-ff3d/159-dong-tai-ji-yi-ti-de-ying-75283a-linked-list.md)
   * [15.10 結語](chapter-15-dong-tai-ji-yi-ti-ff3b-30c7-30fc-30bf-306e-zhi-304d-chang-suo-3092-zi-3089-zuo-308b-ff3d/1510-jie-yu.md)
+* [Chapter 16 檔案輸出入［データを保存し読み出す］](chapter-16-dang-an-shu-chu-ru-ff3b-30c7-30fc-30bf-3092-bao-cun-3057-du-307f-chu-3059-ff3d.md)
 
