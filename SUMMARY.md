@@ -82,4 +82,5 @@
   * [15.5 記憶體的擴張與縮小](chapter-15-dong-tai-ji-yi-ti-ff3b-30c7-30fc-30bf-306e-zhi-304d-chang-suo-3092-zi-3089-zuo-308b-ff3d/155-ji-yi-ti-de-kuo-zhang-yu-suo-xiao.md)
   * [15.6 何謂copy on write](chapter-15-dong-tai-ji-yi-ti-ff3b-30c7-30fc-30bf-306e-zhi-304d-chang-suo-3092-zi-3089-zuo-308b-ff3d/156-he-wei-copy-on-write.md)
   * [15.7 被確保的記憶體的使用方法](chapter-15-dong-tai-ji-yi-ti-ff3b-30c7-30fc-30bf-306e-zhi-304d-chang-suo-3092-zi-3089-zuo-308b-ff3d/157-bei-que-bao-de-ji-yi-ti-de-shi-yong-fang-fa.md)
+  * [15.8 可以操作記憶體領域的函數](chapter-15-dong-tai-ji-yi-ti-ff3b-30c7-30fc-30bf-306e-zhi-304d-chang-suo-3092-zi-3089-zuo-308b-ff3d/158-ke-yi-cao-zuo-ji-yi-ti-ling-yu-de-han-shu.md)
 
