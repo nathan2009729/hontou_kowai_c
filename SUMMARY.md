@@ -45,4 +45,5 @@
   * [11.4 有條件的compile \(if\)](chapter-11-preprocessoryu-chu-li-566829-ff3b-3055-307e-3056-307e-306a-qian-chu-li-3092-xing-3046-ff3d/114-you-tiao-jian-de-compile-if.md)
   * [11.5 像函數的macro函數](chapter-11-preprocessoryu-chu-li-566829-ff3b-3055-307e-3056-307e-306a-qian-chu-li-3092-xing-3046-ff3d/115-xiang-han-shu-de-macro-han-shu.md)
   * [11.6 結語](chapter-11-preprocessoryu-chu-li-566829-ff3b-3055-307e-3056-307e-306a-qian-chu-li-3092-xing-3046-ff3d/116-jie-yu.md)
+* [Chapter 12 指標與陣列［データをまとめて場所を指し示す］](chapter-12-zhi-biao-yu-zhen-lie-ff3b-30c7-30fc-30bf-3092-307e-3068-3081-3066-chang-suo-3092-zhi-3057-shi-3059-ff3d.md)
 
