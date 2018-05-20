@@ -42,4 +42,5 @@
   * [11.1 替換file的內容 \(include\)](chapter-11-preprocessoryu-chu-li-566829-ff3b-3055-307e-3056-307e-306a-qian-chu-li-3092-xing-3046-ff3d/111-ti-huan-file-de-nei-rong-include.md)
   * [11.2 一對一置換 \(define\)](chapter-11-preprocessoryu-chu-li-566829-ff3b-3055-307e-3056-307e-306a-qian-chu-li-3092-xing-3046-ff3d/112-yi-dui-yi-zhi-huan-define.md)
   * [11.3 把define的東西無效化 \(undef\)](chapter-11-preprocessoryu-chu-li-566829-ff3b-3055-307e-3056-307e-306a-qian-chu-li-3092-xing-3046-ff3d/113-ba-define-de-dong-xi-wu-xiao-hua-undef.md)
+  * [11.4 有條件的compile \(if\)](chapter-11-preprocessoryu-chu-li-566829-ff3b-3055-307e-3056-307e-306a-qian-chu-li-3092-xing-3046-ff3d/114-you-tiao-jian-de-compile-if.md)
 
