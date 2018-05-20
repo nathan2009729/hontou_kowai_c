@@ -1,0 +1,2 @@
+> 本章開始進行比較像C語言的部份，首先從把C語言的source code做preprocess(預處理)的preprocessor開始。想不起來preprocessor的人，把第五章的「preprocessor: compile前的處理」重新讀過吧，這樣應該可以讀這章讀的比較順。
+> preprocessor的命令，嚴格來說並不是對C compiler下的命令，這比較難理解，這章再整理一次。另外，preprocessor的命令跟C語言的程式很好區分，行首有#的就是preprocessor命令，其他的都是C語言的程式。
