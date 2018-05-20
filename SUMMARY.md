@@ -64,4 +64,5 @@
   * [13.5 把data type加上別名 \(typedef\)](chapter-13-jie-gou-ti-yu-gong-yong-ti-ff3b-yi-306a-308b-30c7-30fc-30bf-xing-3092-307e-3068-3081-3066-3057-307e-3046-ff3d/135-ba-data-type-jia-shang-bie-ming-typedef.md)
   * [13.6 結語](chapter-13-jie-gou-ti-yu-gong-yong-ti-ff3b-yi-306a-308b-30c7-30fc-30bf-xing-3092-307e-3068-3081-3066-3057-307e-3046-ff3d/136-jie-yu.md)
 * [Chapter 14 字串操作［文字列を操作し使いこなす］](chapter-14-zi-chuan-cao-zuo-ff3b-wen-zi-lie-3092-cao-zuo-3057-shi-3044-3053-306a-3059-ff3d.md)
+  * [14.1 字串的複習](chapter-14-zi-chuan-cao-zuo-ff3b-wen-zi-lie-3092-cao-zuo-3057-shi-3044-3053-306a-3059-ff3d/141-zi-chuan-de-fu-xi.md)
 
