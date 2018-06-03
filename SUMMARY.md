@@ -91,4 +91,5 @@
   * [16.4 其他的標準file函數](chapter-16-dang-an-shu-chu-ru-ff3b-30c7-30fc-30bf-3092-bao-cun-3057-du-307f-chu-3059-ff3d/164-qi-ta-de-biao-zhun-file-han-shu.md)
   * [16.5 低階輸出入函數](chapter-16-dang-an-shu-chu-ru-ff3b-30c7-30fc-30bf-3092-bao-cun-3057-du-307f-chu-3059-ff3d/165-di-jie-shu-chu-ru-han-shu.md)
   * [16.6 結論](chapter-16-dang-an-shu-chu-ru-ff3b-30c7-30fc-30bf-3092-bao-cun-3057-du-307f-chu-3059-ff3d/166-jie-lun.md)
+  * [16.7 生活遇到之問題](chapter-16-dang-an-shu-chu-ru-ff3b-30c7-30fc-30bf-3092-bao-cun-3057-du-307f-chu-3059-ff3d/167-sheng-huo-yu-dao-zhi-wen-ti.md)
 
